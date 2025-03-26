@@ -1,0 +1,27 @@
+Change Component Kind : Designator=MP27 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=MP28 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=MP25 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=MP26 Old Kind=Standard New Kind=Standard (No BOM)
+Change component parameters: Designator = "J2" ("J2"); Footprint = "687124182122"; UniqueID = "\AKGDQAXL" ("\AKGDQAXL")
+Change component parameters (AddParameter): Name = "Category"; Value = "FPC Connectors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/687124182122?ad"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/687124182122?ad"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Resistance"; Value = "30m¶∏"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.96mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "14mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "687124182122"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Match Code"; Value = "WR-FPC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "24"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Max"; Value = "85°„C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Min"; Value = "-55°„C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Orientation"; Value = "Horizontal"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "0.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Current"; Value = "0.5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "3.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Working Voltage"; Value = "50VAC"; VariantName = "[No Variations]"
+Change Class Name : Old Net Name=BaseStation_Side New Net Name=NB_BaseStation

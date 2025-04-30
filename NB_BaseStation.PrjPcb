@@ -169,6 +169,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document8]
+DocumentPath=NB_Stationv2.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [ProjectVariant1]
 UniqueId=b9b8852e-b74e-47f6-8a76-9fbf4e8206db
 Description=v1
@@ -182,7 +199,10 @@ UniqueId=0BDF3FA8-2644-4610-9EFB-BFCFC4782B7D
 Description=v2
 AllowFabrication=0
 ParameterCount=0
-VariationCount=0
+VariationCount=3
+Variation1=Designator=MP1|UniqueId=\WJSKQZOC|Kind=1|AlternatePart=
+Variation2=Designator=MP4|UniqueId=\PTWOJVHJ|Kind=1|AlternatePart=
+Variation3=Designator=MP19|UniqueId=\MDJEBINK|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [GeneratedDocument1]
@@ -190,546 +210,750 @@ DocumentPath=Project Output for NB_Station-v1\BOM\Bill of Materials-NB_BaseStati
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Output for NB_Station-v1\ODB\odb\steps\pcb\layers\comp_+_top\components
+DocumentPath=.\Project Output for NB_Station-v2\ODB\odb\steps\pcb\layers\comp_+_top\components
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Output for NB_Station-v1\ODB\odb\steps\pcb\eda\data
+DocumentPath=Project Output for NB_Station-v1\ODB\odb\steps\pcb\layers\comp_+_top\components
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for NameBadges\Design Rule Check - BaseStation.html
+DocumentPath=.\Project Output for NB_Station-v2\ODB\odb\steps\pcb\eda\data
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for NB_BaseStation\Design Rule Check - NB_BaseStation.html
+DocumentPath=Project Output for NB_Station-v1\ODB\odb\steps\pcb\eda\data
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Output for NB_Station-v1\ODB\odb\steps\pcb\layers\bottom_layer\features
+DocumentPath=Project Outputs for NameBadges\Design Rule Check - BaseStation.html
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Output for NB_Station-v1\ODB\odb\steps\pcb\layers\bottom_overlay\features
+DocumentPath=Project Outputs for NB_BaseStation\Design Rule Check - NB_BaseStation.html
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Output for NB_Station-v1\ODB\odb\steps\pcb\layers\bottom_paste\features
+DocumentPath=.\Project Output for NB_Station-v2\ODB\odb\steps\pcb\layers\bottom_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Output for NB_Station-v1\ODB\odb\steps\pcb\layers\bottom_solder\features
+DocumentPath=.\Project Output for NB_Station-v2\ODB\odb\steps\pcb\layers\bottom_overlay\features
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Output for NB_Station-v1\ODB\odb\steps\pcb\layers\comp_+_top\features
+DocumentPath=.\Project Output for NB_Station-v2\ODB\odb\steps\pcb\layers\bottom_paste\features
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Output for NB_Station-v1\ODB\odb\steps\pcb\layers\dielectric_1\features
+DocumentPath=.\Project Output for NB_Station-v2\ODB\odb\steps\pcb\layers\bottom_solder\features
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Output for NB_Station-v1\ODB\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\features
+DocumentPath=.\Project Output for NB_Station-v2\ODB\odb\steps\pcb\layers\comp_+_top\features
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Output for NB_Station-v1\ODB\odb\steps\pcb\layers\top_layer\features
+DocumentPath=.\Project Output for NB_Station-v2\ODB\odb\steps\pcb\layers\dielectric_1\features
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Output for NB_Station-v1\ODB\odb\steps\pcb\layers\top_overlay\features
+DocumentPath=.\Project Output for NB_Station-v2\ODB\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Output for NB_Station-v1\ODB\odb\steps\pcb\layers\top_paste\features
+DocumentPath=.\Project Output for NB_Station-v2\ODB\odb\steps\pcb\layers\top_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Output for NB_Station-v1\ODB\odb\steps\pcb\layers\top_solder\features
+DocumentPath=.\Project Output for NB_Station-v2\ODB\odb\steps\pcb\layers\top_overlay\features
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Output for NB_Station-v1\ODB\odb\matrix\matrix
+DocumentPath=.\Project Output for NB_Station-v2\ODB\odb\steps\pcb\layers\top_paste\features
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Output for NB_Station-v1\Gerber\NB_BaseStation.1
+DocumentPath=.\Project Output for NB_Station-v2\ODB\odb\steps\pcb\layers\top_solder\features
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Output for NB_Station-v1\Manufacturing Folder\NB_BaseStation.1
+DocumentPath=Project Output for NB_Station-v1\ODB\odb\steps\pcb\layers\bottom_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Output for NB_Station-v1\Manufacturing Folder\NB_BaseStation.DRR
+DocumentPath=Project Output for NB_Station-v1\ODB\odb\steps\pcb\layers\bottom_overlay\features
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Output for NB_Station-v1\NB_Station-v1-Manufacturing BOM Pick Place\NB_BaseStation.DRR
+DocumentPath=Project Output for NB_Station-v1\ODB\odb\steps\pcb\layers\bottom_paste\features
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Output for NB_Station-v1\NB_Station-v1-Manufacturing Folder\NB_BaseStation.DRR
+DocumentPath=Project Output for NB_Station-v1\ODB\odb\steps\pcb\layers\bottom_solder\features
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Output for NB_Station-v1\NB_Station-v1 Manufacturing BOM Pick Place\NB_BaseStation.DRR
+DocumentPath=Project Output for NB_Station-v1\ODB\odb\steps\pcb\layers\comp_+_top\features
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Project Output for NB_Station-v1\NB_Station-v1 Manufacturing Folder\NB_BaseStation.DRR
+DocumentPath=Project Output for NB_Station-v1\ODB\odb\steps\pcb\layers\dielectric_1\features
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Project Output for NB_Station-v1\NC Drill\NB_BaseStation.DRR
+DocumentPath=Project Output for NB_Station-v1\ODB\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=..\NameBadge-Badge\Project Output for NB_Badge-v1\NB_Badge-v1 Manufacturing BOM Pick Place\NB_BaseStation.DRR
+DocumentPath=Project Output for NB_Station-v1\ODB\odb\steps\pcb\layers\top_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=Project Output for NB_Station-v1\Gerber\NB_BaseStation.EXTREP
+DocumentPath=Project Output for NB_Station-v1\ODB\odb\steps\pcb\layers\top_overlay\features
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=Project Output for NB_Station-v1\Manufacturing Folder\NB_BaseStation.EXTREP
+DocumentPath=Project Output for NB_Station-v1\ODB\odb\steps\pcb\layers\top_paste\features
 DItemRevisionGUID=
 
 [GeneratedDocument29]
-DocumentPath=Project Output for NB_Station-v1\NB_Station-v1-Manufacturing BOM Pick Place\NB_BaseStation.EXTREP
+DocumentPath=Project Output for NB_Station-v1\ODB\odb\steps\pcb\layers\top_solder\features
 DItemRevisionGUID=
 
 [GeneratedDocument30]
-DocumentPath=Project Output for NB_Station-v1\NB_Station-v1-Manufacturing Folder\NB_BaseStation.EXTREP
+DocumentPath=.\Project Output for NB_Station-v2\ODB\odb\matrix\matrix
 DItemRevisionGUID=
 
 [GeneratedDocument31]
-DocumentPath=Project Output for NB_Station-v1\NB_Station-v1 Manufacturing BOM Pick Place\NB_BaseStation.EXTREP
+DocumentPath=Project Output for NB_Station-v1\ODB\odb\matrix\matrix
 DItemRevisionGUID=
 
 [GeneratedDocument32]
-DocumentPath=Project Output for NB_Station-v1\NB_Station-v1 Manufacturing Folder\NB_BaseStation.EXTREP
+DocumentPath=Project Output for NB_Station-v1\Gerber\NB_BaseStation.1
 DItemRevisionGUID=
 
 [GeneratedDocument33]
-DocumentPath=..\NameBadge-Badge\Project Output for NB_Badge-v1\NB_Badge-v1 Manufacturing BOM Pick Place\NB_BaseStation.EXTREP
+DocumentPath=Project Output for NB_Station-v1\Manufacturing Folder\NB_BaseStation.1
 DItemRevisionGUID=
 
 [GeneratedDocument34]
-DocumentPath=Project Output for NB_Station-v1\Gerber\NB_BaseStation.GBL
+DocumentPath=.\Project Output for NB_Station-v2\NB_Station-v2-Manufacturing Folder\NB_BaseStation.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument35]
-DocumentPath=Project Output for NB_Station-v1\Manufacturing Folder\NB_BaseStation.GBL
+DocumentPath=.\Project Output for NB_Station-v2\NC Drill\NB_BaseStation.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument36]
-DocumentPath=Project Output for NB_Station-v1\NB_Station-v1-Manufacturing Folder\NB_BaseStation.GBL
+DocumentPath=Project Output for NB_Station-v1\Manufacturing Folder\NB_BaseStation.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument37]
-DocumentPath=Project Output for NB_Station-v1\NB_Station-v1 Manufacturing Folder\NB_BaseStation.GBL
+DocumentPath=Project Output for NB_Station-v1\NB_Station-v1-Manufacturing BOM Pick Place\NB_BaseStation.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument38]
-DocumentPath=Project Output for NB_Station-v1\Gerber\NB_BaseStation.GBO
+DocumentPath=Project Output for NB_Station-v1\NB_Station-v1-Manufacturing Folder\NB_BaseStation.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument39]
-DocumentPath=Project Output for NB_Station-v1\Manufacturing Folder\NB_BaseStation.GBO
+DocumentPath=Project Output for NB_Station-v1\NB_Station-v1 Manufacturing BOM Pick Place\NB_BaseStation.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument40]
-DocumentPath=Project Output for NB_Station-v1\NB_Station-v1-Manufacturing Folder\NB_BaseStation.GBO
+DocumentPath=Project Output for NB_Station-v1\NB_Station-v1 Manufacturing Folder\NB_BaseStation.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument41]
-DocumentPath=Project Output for NB_Station-v1\NB_Station-v1 Manufacturing Folder\NB_BaseStation.GBO
+DocumentPath=Project Output for NB_Station-v1\NC Drill\NB_BaseStation.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument42]
-DocumentPath=Project Output for NB_Station-v1\Gerber\NB_BaseStation.GBP
+DocumentPath=..\NameBadge-Badge\Project Output for NB_Badge-v1\NB_Badge-v1 Manufacturing BOM Pick Place\NB_BaseStation.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument43]
-DocumentPath=Project Output for NB_Station-v1\Manufacturing Folder\NB_BaseStation.GBP
+DocumentPath=.\Project Output for NB_Station-v2\Gerber\NB_BaseStation.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument44]
-DocumentPath=Project Output for NB_Station-v1\NB_Station-v1-Manufacturing Folder\NB_BaseStation.GBP
+DocumentPath=.\Project Output for NB_Station-v2\NB_Station-v2-Manufacturing Folder\NB_BaseStation.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument45]
-DocumentPath=Project Output for NB_Station-v1\NB_Station-v1 Manufacturing Folder\NB_BaseStation.GBP
+DocumentPath=Project Output for NB_Station-v1\Gerber\NB_BaseStation.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument46]
-DocumentPath=Project Output for NB_Station-v1\Gerber\NB_BaseStation.GBS
+DocumentPath=Project Output for NB_Station-v1\Manufacturing Folder\NB_BaseStation.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument47]
-DocumentPath=Project Output for NB_Station-v1\Manufacturing Folder\NB_BaseStation.GBS
+DocumentPath=Project Output for NB_Station-v1\NB_Station-v1-Manufacturing BOM Pick Place\NB_BaseStation.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument48]
-DocumentPath=Project Output for NB_Station-v1\NB_Station-v1-Manufacturing Folder\NB_BaseStation.GBS
+DocumentPath=Project Output for NB_Station-v1\NB_Station-v1-Manufacturing Folder\NB_BaseStation.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument49]
-DocumentPath=Project Output for NB_Station-v1\NB_Station-v1 Manufacturing Folder\NB_BaseStation.GBS
+DocumentPath=Project Output for NB_Station-v1\NB_Station-v1 Manufacturing BOM Pick Place\NB_BaseStation.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument50]
-DocumentPath=Project Output for NB_Station-v1\Gerber\NB_BaseStation.GD1
+DocumentPath=Project Output for NB_Station-v1\NB_Station-v1 Manufacturing Folder\NB_BaseStation.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument51]
-DocumentPath=Project Output for NB_Station-v1\Manufacturing Folder\NB_BaseStation.GD1
+DocumentPath=..\NameBadge-Badge\Project Output for NB_Badge-v1\NB_Badge-v1 Manufacturing BOM Pick Place\NB_BaseStation.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument52]
-DocumentPath=Project Output for NB_Station-v1\Gerber\NB_BaseStation.GG1
+DocumentPath=.\Project Output for NB_Station-v2\Gerber\NB_BaseStation.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument53]
-DocumentPath=Project Output for NB_Station-v1\Manufacturing Folder\NB_BaseStation.GG1
+DocumentPath=.\Project Output for NB_Station-v2\NB_Station-v2-Manufacturing Folder\NB_BaseStation.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument54]
-DocumentPath=Project Output for NB_Station-v1\Gerber\NB_BaseStation.GKO
+DocumentPath=Project Output for NB_Station-v1\Gerber\NB_BaseStation.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument55]
-DocumentPath=Project Output for NB_Station-v1\Manufacturing Folder\NB_BaseStation.GKO
+DocumentPath=Project Output for NB_Station-v1\Manufacturing Folder\NB_BaseStation.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument56]
-DocumentPath=Project Output for NB_Station-v1\Gerber\NB_BaseStation.GM
+DocumentPath=Project Output for NB_Station-v1\NB_Station-v1-Manufacturing Folder\NB_BaseStation.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument57]
-DocumentPath=Project Output for NB_Station-v1\Manufacturing Folder\NB_BaseStation.GM
+DocumentPath=Project Output for NB_Station-v1\NB_Station-v1 Manufacturing Folder\NB_BaseStation.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument58]
-DocumentPath=Project Output for NB_Station-v1\NB_Station-v1-Manufacturing Folder\NB_BaseStation.GM
+DocumentPath=.\Project Output for NB_Station-v2\Gerber\NB_BaseStation.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument59]
-DocumentPath=Project Output for NB_Station-v1\NB_Station-v1 Manufacturing Folder\NB_BaseStation.GM
+DocumentPath=.\Project Output for NB_Station-v2\NB_Station-v2-Manufacturing Folder\NB_BaseStation.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument60]
-DocumentPath=Project Output for NB_Station-v1\Gerber\NB_BaseStation.GM1
+DocumentPath=Project Output for NB_Station-v1\Gerber\NB_BaseStation.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument61]
-DocumentPath=Project Output for NB_Station-v1\Manufacturing Folder\NB_BaseStation.GM1
+DocumentPath=Project Output for NB_Station-v1\Manufacturing Folder\NB_BaseStation.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument62]
-DocumentPath=Project Output for NB_Station-v1\Gerber\NB_BaseStation.GM2
+DocumentPath=Project Output for NB_Station-v1\NB_Station-v1-Manufacturing Folder\NB_BaseStation.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument63]
-DocumentPath=Project Output for NB_Station-v1\Manufacturing Folder\NB_BaseStation.GM2
+DocumentPath=Project Output for NB_Station-v1\NB_Station-v1 Manufacturing Folder\NB_BaseStation.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument64]
-DocumentPath=Project Output for NB_Station-v1\Gerber\NB_BaseStation.GM3
+DocumentPath=.\Project Output for NB_Station-v2\Gerber\NB_BaseStation.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument65]
-DocumentPath=Project Output for NB_Station-v1\Manufacturing Folder\NB_BaseStation.GM3
+DocumentPath=.\Project Output for NB_Station-v2\NB_Station-v2-Manufacturing Folder\NB_BaseStation.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument66]
-DocumentPath=Project Output for NB_Station-v1\Gerber\NB_BaseStation.GM4
+DocumentPath=Project Output for NB_Station-v1\Gerber\NB_BaseStation.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument67]
-DocumentPath=Project Output for NB_Station-v1\Manufacturing Folder\NB_BaseStation.GM4
+DocumentPath=Project Output for NB_Station-v1\Manufacturing Folder\NB_BaseStation.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument68]
-DocumentPath=Project Output for NB_Station-v1\Gerber\NB_BaseStation.GM11
+DocumentPath=Project Output for NB_Station-v1\NB_Station-v1-Manufacturing Folder\NB_BaseStation.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument69]
-DocumentPath=Project Output for NB_Station-v1\Manufacturing Folder\NB_BaseStation.GM11
+DocumentPath=Project Output for NB_Station-v1\NB_Station-v1 Manufacturing Folder\NB_BaseStation.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument70]
-DocumentPath=Project Output for NB_Station-v1\Gerber\NB_BaseStation.GM12
+DocumentPath=.\Project Output for NB_Station-v2\Gerber\NB_BaseStation.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument71]
-DocumentPath=Project Output for NB_Station-v1\Manufacturing Folder\NB_BaseStation.GM12
+DocumentPath=.\Project Output for NB_Station-v2\NB_Station-v2-Manufacturing Folder\NB_BaseStation.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument72]
-DocumentPath=Project Output for NB_Station-v1\Gerber\NB_BaseStation.GM13
+DocumentPath=Project Output for NB_Station-v1\Gerber\NB_BaseStation.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument73]
-DocumentPath=Project Output for NB_Station-v1\Manufacturing Folder\NB_BaseStation.GM13
+DocumentPath=Project Output for NB_Station-v1\Manufacturing Folder\NB_BaseStation.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument74]
-DocumentPath=Project Output for NB_Station-v1\Gerber\NB_BaseStation.GM14
+DocumentPath=Project Output for NB_Station-v1\NB_Station-v1-Manufacturing Folder\NB_BaseStation.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument75]
-DocumentPath=Project Output for NB_Station-v1\Manufacturing Folder\NB_BaseStation.GM14
+DocumentPath=Project Output for NB_Station-v1\NB_Station-v1 Manufacturing Folder\NB_BaseStation.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument76]
-DocumentPath=Project Output for NB_Station-v1\Gerber\NB_BaseStation.GM15
+DocumentPath=Project Output for NB_Station-v1\Gerber\NB_BaseStation.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument77]
-DocumentPath=Project Output for NB_Station-v1\Manufacturing Folder\NB_BaseStation.GM15
+DocumentPath=Project Output for NB_Station-v1\Manufacturing Folder\NB_BaseStation.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument78]
-DocumentPath=Project Output for NB_Station-v1\Gerber\NB_BaseStation.GM16
+DocumentPath=Project Output for NB_Station-v1\Gerber\NB_BaseStation.GG1
 DItemRevisionGUID=
 
 [GeneratedDocument79]
-DocumentPath=Project Output for NB_Station-v1\Manufacturing Folder\NB_BaseStation.GM16
+DocumentPath=Project Output for NB_Station-v1\Manufacturing Folder\NB_BaseStation.GG1
 DItemRevisionGUID=
 
 [GeneratedDocument80]
-DocumentPath=Project Output for NB_Station-v1\Gerber\NB_BaseStation.GM17
+DocumentPath=Project Output for NB_Station-v1\Gerber\NB_BaseStation.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument81]
-DocumentPath=Project Output for NB_Station-v1\Manufacturing Folder\NB_BaseStation.GM17
+DocumentPath=Project Output for NB_Station-v1\Manufacturing Folder\NB_BaseStation.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument82]
-DocumentPath=Project Output for NB_Station-v1\Gerber\NB_BaseStation.GM20
+DocumentPath=.\Project Output for NB_Station-v2\Gerber\NB_BaseStation.GM
 DItemRevisionGUID=
 
 [GeneratedDocument83]
-DocumentPath=Project Output for NB_Station-v1\Manufacturing Folder\NB_BaseStation.GM20
+DocumentPath=.\Project Output for NB_Station-v2\NB_Station-v2-Manufacturing Folder\NB_BaseStation.GM
 DItemRevisionGUID=
 
 [GeneratedDocument84]
-DocumentPath=Project Output for NB_Station-v1\Gerber\NB_BaseStation.GML
+DocumentPath=Project Output for NB_Station-v1\Gerber\NB_BaseStation.GM
 DItemRevisionGUID=
 
 [GeneratedDocument85]
-DocumentPath=Project Output for NB_Station-v1\Manufacturing Folder\NB_BaseStation.GML
+DocumentPath=Project Output for NB_Station-v1\Manufacturing Folder\NB_BaseStation.GM
 DItemRevisionGUID=
 
 [GeneratedDocument86]
-DocumentPath=Project Output for NB_Station-v1\Gerber\NB_BaseStation.GPB
+DocumentPath=Project Output for NB_Station-v1\NB_Station-v1-Manufacturing Folder\NB_BaseStation.GM
 DItemRevisionGUID=
 
 [GeneratedDocument87]
-DocumentPath=Project Output for NB_Station-v1\Manufacturing Folder\NB_BaseStation.GPB
+DocumentPath=Project Output for NB_Station-v1\NB_Station-v1 Manufacturing Folder\NB_BaseStation.GM
 DItemRevisionGUID=
 
 [GeneratedDocument88]
-DocumentPath=Project Output for NB_Station-v1\Gerber\NB_BaseStation.GPT
+DocumentPath=Project Output for NB_Station-v1\Gerber\NB_BaseStation.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument89]
-DocumentPath=Project Output for NB_Station-v1\Manufacturing Folder\NB_BaseStation.GPT
+DocumentPath=Project Output for NB_Station-v1\Manufacturing Folder\NB_BaseStation.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument90]
-DocumentPath=Project Output for NB_Station-v1\Gerber\NB_BaseStation.GTL
+DocumentPath=Project Output for NB_Station-v1\Gerber\NB_BaseStation.GM2
 DItemRevisionGUID=
 
 [GeneratedDocument91]
-DocumentPath=Project Output for NB_Station-v1\Manufacturing Folder\NB_BaseStation.GTL
+DocumentPath=Project Output for NB_Station-v1\Manufacturing Folder\NB_BaseStation.GM2
 DItemRevisionGUID=
 
 [GeneratedDocument92]
-DocumentPath=Project Output for NB_Station-v1\NB_Station-v1-Manufacturing Folder\NB_BaseStation.GTL
+DocumentPath=Project Output for NB_Station-v1\Gerber\NB_BaseStation.GM3
 DItemRevisionGUID=
 
 [GeneratedDocument93]
-DocumentPath=Project Output for NB_Station-v1\NB_Station-v1 Manufacturing Folder\NB_BaseStation.GTL
+DocumentPath=Project Output for NB_Station-v1\Manufacturing Folder\NB_BaseStation.GM3
 DItemRevisionGUID=
 
 [GeneratedDocument94]
-DocumentPath=Project Output for NB_Station-v1\Gerber\NB_BaseStation.GTO
+DocumentPath=Project Output for NB_Station-v1\Gerber\NB_BaseStation.GM4
 DItemRevisionGUID=
 
 [GeneratedDocument95]
-DocumentPath=Project Output for NB_Station-v1\Manufacturing Folder\NB_BaseStation.GTO
+DocumentPath=Project Output for NB_Station-v1\Manufacturing Folder\NB_BaseStation.GM4
 DItemRevisionGUID=
 
 [GeneratedDocument96]
-DocumentPath=Project Output for NB_Station-v1\NB_Station-v1-Manufacturing Folder\NB_BaseStation.GTO
+DocumentPath=Project Output for NB_Station-v1\Gerber\NB_BaseStation.GM11
 DItemRevisionGUID=
 
 [GeneratedDocument97]
-DocumentPath=Project Output for NB_Station-v1\NB_Station-v1 Manufacturing Folder\NB_BaseStation.GTO
+DocumentPath=Project Output for NB_Station-v1\Manufacturing Folder\NB_BaseStation.GM11
 DItemRevisionGUID=
 
 [GeneratedDocument98]
-DocumentPath=Project Output for NB_Station-v1\Gerber\NB_BaseStation.GTP
+DocumentPath=Project Output for NB_Station-v1\Gerber\NB_BaseStation.GM12
 DItemRevisionGUID=
 
 [GeneratedDocument99]
-DocumentPath=Project Output for NB_Station-v1\Manufacturing Folder\NB_BaseStation.GTP
+DocumentPath=Project Output for NB_Station-v1\Manufacturing Folder\NB_BaseStation.GM12
 DItemRevisionGUID=
 
 [GeneratedDocument100]
-DocumentPath=Project Output for NB_Station-v1\NB_Station-v1-Manufacturing Folder\NB_BaseStation.GTP
+DocumentPath=Project Output for NB_Station-v1\Gerber\NB_BaseStation.GM13
 DItemRevisionGUID=
 
 [GeneratedDocument101]
-DocumentPath=Project Output for NB_Station-v1\NB_Station-v1 Manufacturing Folder\NB_BaseStation.GTP
+DocumentPath=Project Output for NB_Station-v1\Manufacturing Folder\NB_BaseStation.GM13
 DItemRevisionGUID=
 
 [GeneratedDocument102]
-DocumentPath=Project Output for NB_Station-v1\Gerber\NB_BaseStation.GTS
+DocumentPath=Project Output for NB_Station-v1\Gerber\NB_BaseStation.GM14
 DItemRevisionGUID=
 
 [GeneratedDocument103]
-DocumentPath=Project Output for NB_Station-v1\Manufacturing Folder\NB_BaseStation.GTS
+DocumentPath=Project Output for NB_Station-v1\Manufacturing Folder\NB_BaseStation.GM14
 DItemRevisionGUID=
 
 [GeneratedDocument104]
-DocumentPath=Project Output for NB_Station-v1\NB_Station-v1-Manufacturing Folder\NB_BaseStation.GTS
+DocumentPath=Project Output for NB_Station-v1\Gerber\NB_BaseStation.GM15
 DItemRevisionGUID=
 
 [GeneratedDocument105]
-DocumentPath=Project Output for NB_Station-v1\NB_Station-v1 Manufacturing Folder\NB_BaseStation.GTS
+DocumentPath=Project Output for NB_Station-v1\Manufacturing Folder\NB_BaseStation.GM15
 DItemRevisionGUID=
 
 [GeneratedDocument106]
-DocumentPath=Project Output for NB_Station-v1\Manufacturing Folder\NB_BaseStation.LDP
+DocumentPath=Project Output for NB_Station-v1\Gerber\NB_BaseStation.GM16
 DItemRevisionGUID=
 
 [GeneratedDocument107]
-DocumentPath=Project Output for NB_Station-v1\NB_Station-v1-Manufacturing BOM Pick Place\NB_BaseStation.LDP
+DocumentPath=Project Output for NB_Station-v1\Manufacturing Folder\NB_BaseStation.GM16
 DItemRevisionGUID=
 
 [GeneratedDocument108]
-DocumentPath=Project Output for NB_Station-v1\NB_Station-v1-Manufacturing Folder\NB_BaseStation.LDP
+DocumentPath=Project Output for NB_Station-v1\Gerber\NB_BaseStation.GM17
 DItemRevisionGUID=
 
 [GeneratedDocument109]
-DocumentPath=Project Output for NB_Station-v1\NB_Station-v1 Manufacturing BOM Pick Place\NB_BaseStation.LDP
+DocumentPath=Project Output for NB_Station-v1\Manufacturing Folder\NB_BaseStation.GM17
 DItemRevisionGUID=
 
 [GeneratedDocument110]
-DocumentPath=Project Output for NB_Station-v1\NB_Station-v1 Manufacturing Folder\NB_BaseStation.LDP
+DocumentPath=Project Output for NB_Station-v1\Gerber\NB_BaseStation.GM20
 DItemRevisionGUID=
 
 [GeneratedDocument111]
-DocumentPath=Project Output for NB_Station-v1\NC Drill\NB_BaseStation.LDP
+DocumentPath=Project Output for NB_Station-v1\Manufacturing Folder\NB_BaseStation.GM20
 DItemRevisionGUID=
 
 [GeneratedDocument112]
-DocumentPath=..\NameBadge-Badge\Project Output for NB_Badge-v1\NB_Badge-v1 Manufacturing BOM Pick Place\NB_BaseStation.LDP
+DocumentPath=Project Output for NB_Station-v1\Gerber\NB_BaseStation.GML
 DItemRevisionGUID=
 
 [GeneratedDocument113]
-DocumentPath=Project Output for NB_Station-v1\Gerber\NB_BaseStation.REP
+DocumentPath=Project Output for NB_Station-v1\Manufacturing Folder\NB_BaseStation.GML
 DItemRevisionGUID=
 
 [GeneratedDocument114]
-DocumentPath=Project Output for NB_Station-v1\Manufacturing Folder\NB_BaseStation.REP
+DocumentPath=Project Output for NB_Station-v1\Gerber\NB_BaseStation.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument115]
-DocumentPath=Project Output for NB_Station-v1\NB_Station-v1-Manufacturing BOM Pick Place\NB_BaseStation.REP
+DocumentPath=Project Output for NB_Station-v1\Manufacturing Folder\NB_BaseStation.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument116]
-DocumentPath=Project Output for NB_Station-v1\NB_Station-v1-Manufacturing Folder\NB_BaseStation.REP
+DocumentPath=Project Output for NB_Station-v1\Gerber\NB_BaseStation.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument117]
-DocumentPath=Project Output for NB_Station-v1\NB_Station-v1 Manufacturing BOM Pick Place\NB_BaseStation.REP
+DocumentPath=Project Output for NB_Station-v1\Manufacturing Folder\NB_BaseStation.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument118]
-DocumentPath=Project Output for NB_Station-v1\NB_Station-v1 Manufacturing Folder\NB_BaseStation.REP
+DocumentPath=.\Project Output for NB_Station-v2\Gerber\NB_BaseStation.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument119]
-DocumentPath=Project Output for NB_Station-v1\ODB\NB_BaseStation.REP
+DocumentPath=.\Project Output for NB_Station-v2\NB_Station-v2-Manufacturing Folder\NB_BaseStation.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument120]
-DocumentPath=..\NameBadge-Badge\Project Output for NB_Badge-v1\NB_Badge-v1 Manufacturing BOM Pick Place\NB_BaseStation.REP
+DocumentPath=Project Output for NB_Station-v1\Gerber\NB_BaseStation.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument121]
-DocumentPath=Project Output for NB_Station-v1\Manufacturing Folder\NB_BaseStation.TXT
+DocumentPath=Project Output for NB_Station-v1\Manufacturing Folder\NB_BaseStation.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument122]
-DocumentPath=Project Output for NB_Station-v1\NB_Station-v1-Manufacturing BOM Pick Place\NB_BaseStation.TXT
+DocumentPath=Project Output for NB_Station-v1\NB_Station-v1-Manufacturing Folder\NB_BaseStation.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument123]
-DocumentPath=Project Output for NB_Station-v1\NB_Station-v1-Manufacturing Folder\NB_BaseStation.TXT
+DocumentPath=Project Output for NB_Station-v1\NB_Station-v1 Manufacturing Folder\NB_BaseStation.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument124]
-DocumentPath=Project Output for NB_Station-v1\NB_Station-v1 Manufacturing BOM Pick Place\NB_BaseStation.TXT
+DocumentPath=.\Project Output for NB_Station-v2\Gerber\NB_BaseStation.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument125]
-DocumentPath=Project Output for NB_Station-v1\NB_Station-v1 Manufacturing Folder\NB_BaseStation.TXT
+DocumentPath=.\Project Output for NB_Station-v2\NB_Station-v2-Manufacturing Folder\NB_BaseStation.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument126]
-DocumentPath=Project Output for NB_Station-v1\NC Drill\NB_BaseStation.TXT
+DocumentPath=Project Output for NB_Station-v1\Gerber\NB_BaseStation.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument127]
-DocumentPath=..\NameBadge-Badge\Project Output for NB_Badge-v1\NB_Badge-v1 Manufacturing BOM Pick Place\NB_BaseStation.TXT
+DocumentPath=Project Output for NB_Station-v1\Manufacturing Folder\NB_BaseStation.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument128]
-DocumentPath=Project Output for NB_Station-v1\ExportSTEP\NB_Station-v1.step
+DocumentPath=Project Output for NB_Station-v1\NB_Station-v1-Manufacturing Folder\NB_BaseStation.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument129]
-DocumentPath=Project Output for NB_Station-v1\ExportSTEP\NB_Station-v1.x_t
+DocumentPath=Project Output for NB_Station-v1\NB_Station-v1 Manufacturing Folder\NB_BaseStation.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument130]
-DocumentPath=Project Output for NB_Station-v1\ODB\odb\steps\pcb\netlists\cadnet\netlist
+DocumentPath=.\Project Output for NB_Station-v2\Gerber\NB_BaseStation.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument131]
-DocumentPath=Project Output for NB_Station-v1\NB_Station-v1-Manufacturing BOM Pick Place\Pick Place for NB_BaseStation(v1).txt
+DocumentPath=.\Project Output for NB_Station-v2\NB_Station-v2-Manufacturing Folder\NB_BaseStation.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument132]
-DocumentPath=Project Output for NB_Station-v1\NB_Station-v1 Manufacturing BOM Pick Place\Pick Place for NB_BaseStation(v1).txt
+DocumentPath=Project Output for NB_Station-v1\Gerber\NB_BaseStation.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument133]
-DocumentPath=Project Output for NB_Station-v1\Pick Place\Pick Place for NB_BaseStation(v1).txt
+DocumentPath=Project Output for NB_Station-v1\Manufacturing Folder\NB_BaseStation.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument134]
-DocumentPath=..\NameBadge-Badge\Project Output for NB_Badge-v1\NB_Badge-v1 Manufacturing BOM Pick Place\Pick Place for NB_BaseStation(v1).txt
+DocumentPath=Project Output for NB_Station-v1\NB_Station-v1-Manufacturing Folder\NB_BaseStation.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument135]
-DocumentPath=Project Output for NB_Station-v1\ODB\odb\steps\pcb\profile
+DocumentPath=Project Output for NB_Station-v1\NB_Station-v1 Manufacturing Folder\NB_BaseStation.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument136]
-DocumentPath=Project Output for NB_Station-v1\ODB\odb\steps\pcb\stephdr
+DocumentPath=.\Project Output for NB_Station-v2\Gerber\NB_BaseStation.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument137]
+DocumentPath=.\Project Output for NB_Station-v2\NB_Station-v2-Manufacturing Folder\NB_BaseStation.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument138]
+DocumentPath=Project Output for NB_Station-v1\Gerber\NB_BaseStation.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument139]
+DocumentPath=Project Output for NB_Station-v1\Manufacturing Folder\NB_BaseStation.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument140]
+DocumentPath=Project Output for NB_Station-v1\NB_Station-v1-Manufacturing Folder\NB_BaseStation.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument141]
+DocumentPath=Project Output for NB_Station-v1\NB_Station-v1 Manufacturing Folder\NB_BaseStation.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument142]
+DocumentPath=.\Project Output for NB_Station-v2\NB_Station-v2-Manufacturing Folder\NB_BaseStation.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument143]
+DocumentPath=.\Project Output for NB_Station-v2\NC Drill\NB_BaseStation.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument144]
+DocumentPath=Project Output for NB_Station-v1\Manufacturing Folder\NB_BaseStation.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument145]
+DocumentPath=Project Output for NB_Station-v1\NB_Station-v1-Manufacturing BOM Pick Place\NB_BaseStation.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument146]
+DocumentPath=Project Output for NB_Station-v1\NB_Station-v1-Manufacturing Folder\NB_BaseStation.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument147]
+DocumentPath=Project Output for NB_Station-v1\NB_Station-v1 Manufacturing BOM Pick Place\NB_BaseStation.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument148]
+DocumentPath=Project Output for NB_Station-v1\NB_Station-v1 Manufacturing Folder\NB_BaseStation.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument149]
+DocumentPath=Project Output for NB_Station-v1\NC Drill\NB_BaseStation.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument150]
+DocumentPath=..\NameBadge-Badge\Project Output for NB_Badge-v1\NB_Badge-v1 Manufacturing BOM Pick Place\NB_BaseStation.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument151]
+DocumentPath=.\Project Output for NB_Station-v2\Gerber\NB_BaseStation.REP
+DItemRevisionGUID=
+
+[GeneratedDocument152]
+DocumentPath=.\Project Output for NB_Station-v2\NB_Station-v2-Manufacturing Folder\NB_BaseStation.REP
+DItemRevisionGUID=
+
+[GeneratedDocument153]
+DocumentPath=.\Project Output for NB_Station-v2\ODB\NB_BaseStation.REP
+DItemRevisionGUID=
+
+[GeneratedDocument154]
+DocumentPath=Project Output for NB_Station-v1\Gerber\NB_BaseStation.REP
+DItemRevisionGUID=
+
+[GeneratedDocument155]
+DocumentPath=Project Output for NB_Station-v1\Manufacturing Folder\NB_BaseStation.REP
+DItemRevisionGUID=
+
+[GeneratedDocument156]
+DocumentPath=Project Output for NB_Station-v1\NB_Station-v1-Manufacturing BOM Pick Place\NB_BaseStation.REP
+DItemRevisionGUID=
+
+[GeneratedDocument157]
+DocumentPath=Project Output for NB_Station-v1\NB_Station-v1-Manufacturing Folder\NB_BaseStation.REP
+DItemRevisionGUID=
+
+[GeneratedDocument158]
+DocumentPath=Project Output for NB_Station-v1\NB_Station-v1 Manufacturing BOM Pick Place\NB_BaseStation.REP
+DItemRevisionGUID=
+
+[GeneratedDocument159]
+DocumentPath=Project Output for NB_Station-v1\NB_Station-v1 Manufacturing Folder\NB_BaseStation.REP
+DItemRevisionGUID=
+
+[GeneratedDocument160]
+DocumentPath=Project Output for NB_Station-v1\ODB\NB_BaseStation.REP
+DItemRevisionGUID=
+
+[GeneratedDocument161]
+DocumentPath=..\NameBadge-Badge\Project Output for NB_Badge-v1\NB_Badge-v1 Manufacturing BOM Pick Place\NB_BaseStation.REP
+DItemRevisionGUID=
+
+[GeneratedDocument162]
+DocumentPath=.\Project Output for NB_Station-v2\NB_Station-v2-Manufacturing Folder\NB_BaseStation.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument163]
+DocumentPath=.\Project Output for NB_Station-v2\NC Drill\NB_BaseStation.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument164]
+DocumentPath=Project Output for NB_Station-v1\Manufacturing Folder\NB_BaseStation.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument165]
+DocumentPath=Project Output for NB_Station-v1\NB_Station-v1-Manufacturing BOM Pick Place\NB_BaseStation.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument166]
+DocumentPath=Project Output for NB_Station-v1\NB_Station-v1-Manufacturing Folder\NB_BaseStation.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument167]
+DocumentPath=Project Output for NB_Station-v1\NB_Station-v1 Manufacturing BOM Pick Place\NB_BaseStation.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument168]
+DocumentPath=Project Output for NB_Station-v1\NB_Station-v1 Manufacturing Folder\NB_BaseStation.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument169]
+DocumentPath=Project Output for NB_Station-v1\NC Drill\NB_BaseStation.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument170]
+DocumentPath=..\NameBadge-Badge\Project Output for NB_Badge-v1\NB_Badge-v1 Manufacturing BOM Pick Place\NB_BaseStation.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument171]
+DocumentPath=Project Output for NB_Station-v1\ExportSTEP\NB_Station-v1.step
+DItemRevisionGUID=
+
+[GeneratedDocument172]
+DocumentPath=Project Output for NB_Station-v1\ExportSTEP\NB_Station-v1.x_t
+DItemRevisionGUID=
+
+[GeneratedDocument173]
+DocumentPath=.\Project Output for NB_Station-v2\ExportSTEP\NB_Station-v2.step
+DItemRevisionGUID=
+
+[GeneratedDocument174]
+DocumentPath=.\Project Output for NB_Station-v2\ExportSTEP\NB_Station-v2.x_t
+DItemRevisionGUID=
+
+[GeneratedDocument175]
+DocumentPath=.\Project Output for NB_Station-v2\ODB\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument176]
+DocumentPath=Project Output for NB_Station-v1\ODB\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument177]
+DocumentPath=Project Output for NB_Station-v1\NB_Station-v1-Manufacturing BOM Pick Place\Pick Place for NB_BaseStation(v1).txt
+DItemRevisionGUID=
+
+[GeneratedDocument178]
+DocumentPath=Project Output for NB_Station-v1\NB_Station-v1 Manufacturing BOM Pick Place\Pick Place for NB_BaseStation(v1).txt
+DItemRevisionGUID=
+
+[GeneratedDocument179]
+DocumentPath=Project Output for NB_Station-v1\Pick Place\Pick Place for NB_BaseStation(v1).txt
+DItemRevisionGUID=
+
+[GeneratedDocument180]
+DocumentPath=..\NameBadge-Badge\Project Output for NB_Badge-v1\NB_Badge-v1 Manufacturing BOM Pick Place\Pick Place for NB_BaseStation(v1).txt
+DItemRevisionGUID=
+
+[GeneratedDocument181]
+DocumentPath=.\Project Output for NB_Station-v2\Pick Place\Pick Place for NB_BaseStation(v2).csv
+DItemRevisionGUID=
+
+[GeneratedDocument182]
+DocumentPath=.\Project Output for NB_Station-v2\Pick Place\Pick Place for NB_BaseStation(v2).txt
+DItemRevisionGUID=
+
+[GeneratedDocument183]
+DocumentPath=.\Project Output for NB_Station-v2\ODB\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument184]
+DocumentPath=Project Output for NB_Station-v1\ODB\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument185]
+DocumentPath=.\Project Output for NB_Station-v2\ODB\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument186]
+DocumentPath=Project Output for NB_Station-v1\ODB\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument187]
+DocumentPath=.\Project Output for NB_Station-v2\ODB\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\tools
+DItemRevisionGUID=
+
+[GeneratedDocument188]
 DocumentPath=Project Output for NB_Station-v1\ODB\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\tools
 DItemRevisionGUID=
 

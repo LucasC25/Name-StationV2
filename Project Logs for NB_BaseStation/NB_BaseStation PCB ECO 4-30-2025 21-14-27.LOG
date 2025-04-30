@@ -1,0 +1,46 @@
+Change component parameters: Designator = "J2" ("J2"); Footprint = "687124182122"; UniqueID = "\AKGDQAXL" ("\AKGDQAXL")
+Change component parameters (AddParameter): Name = "Category"; Value = "FPC Connectors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/687124182122?ad"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/687124182122?ad"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Resistance"; Value = "30mO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.96mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "14mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "687124182122"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Match Code"; Value = "WR-FPC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "24"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Max"; Value = "85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Min"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Orientation"; Value = "Horizontal"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "0.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Current"; Value = "0.5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "3.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Working Voltage"; Value = "50VAC"; VariantName = "[No Variations]"
+Change Net Name : Old Net Name=NetJ2_1 New Net Name=1-NC
+Change Net Name : Old Net Name=NetJ2_2 New Net Name=2-GDR
+Change Net Name : Old Net Name=NetJ2_3 New Net Name=3-RESE
+Change Net Name : Old Net Name=NetJ2_4 New Net Name=4-NC
+Change Net Name : Old Net Name=NetJ2_5 New Net Name=5-VSH2
+Change Net Name : Old Net Name=NetJ2_6 New Net Name=6-SCL-T
+Change Net Name : Old Net Name=NetJ2_7 New Net Name=7-SDA-T
+Change Net Name : Old Net Name=NetJ2_8 New Net Name=8-BS1
+Change Net Name : Old Net Name=NetJ2_9 New Net Name=9-BUSY
+Change Net Name : Old Net Name=NetJ2_10 New Net Name=10-RES#
+Change Net Name : Old Net Name=NetJ2_11 New Net Name=11-D/C#
+Change Net Name : Old Net Name=NetJ2_12 New Net Name=12-CS#
+Change Net Name : Old Net Name=NetJ2_13 New Net Name=13-SCL
+Change Net Name : Old Net Name=NetJ2_14 New Net Name=14-SDA
+Change Net Name : Old Net Name=NetJ2_15 New Net Name=15-VDDIO
+Change Net Name : Old Net Name=NetJ2_16 New Net Name=16-VCI
+Change Net Name : Old Net Name=NetJ2_17 New Net Name=17-GND
+Change Net Name : Old Net Name=NetJ2_18 New Net Name=18-VDD
+Change Net Name : Old Net Name=NetJ2_19 New Net Name=19-VPP
+Change Net Name : Old Net Name=NetJ2_20 New Net Name=20-VSH1
+Change Net Name : Old Net Name=NetJ2_21 New Net Name=21-VGH
+Change Net Name : Old Net Name=NetJ2_22 New Net Name=22-VSL
+Change Net Name : Old Net Name=NetJ2_23 New Net Name=23-VGL
+Change Net Name : Old Net Name=NetJ2_24 New Net Name=24-VCOM
